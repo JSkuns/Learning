@@ -6,7 +6,7 @@
   <li>JTheAreaOfCircle - площадь круга, длина окружности (Netology)</li>
   <li>JLeapYear - вычислим, является ли введёный год - високосным? (Netology)</li>
   <li>JTimeTranslations - вычисляем кол-во секунд на выполнение ряда задач (Netology)</li>
-  <li>JCompareDouble - сравнение double и float, округление, отбрасывание дробной части, приведение типов</li>
+  <li>JCompareDouble - сравнение double и float, округление, отбрасывание дробной части, приведение типов (Netology)</li>
   <li></li>
   <li></li>
 </ol>
