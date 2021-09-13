@@ -1,6 +1,9 @@
 <ol type="1">
-  <li>Выводим "Hello World!"</li>
-	<li></li>
+  <li>Output "Hello World!"</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ol>
 
 
