@@ -1,8 +1,8 @@
 language = "java10"
 
 # output "Hello World!"
-# run = "java HelloWorld.java"
+# run = "java ZHelloWorld.java"
 
 # output subtraction: value1 - value2 = ...
-run = "java Subtraction.java"
+run = "java ZSubtraction.java"
 
