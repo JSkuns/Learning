@@ -4,7 +4,7 @@ import java.util.stream.Collectors;
 import java.util.stream.LongStream;
 import java.util.stream.Stream;
 
-public class Main {
+public class JArraysExample {
     public static void main(String[] args) {
         int a[] = new int[] {15, 2, 53, 41, 5}; // объявление массивов
         int b[] = new int[] {10, 20, 30, 40, 50, 60, 70, 80};
