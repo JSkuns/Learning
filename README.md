@@ -5,7 +5,7 @@
   <li>ZSum - сумма через переменные, применяем Scanner (Netology)</li>
   <li>JTheAreaOfCircle - площадь круга, длина окружности (Netology)</li>
   <li>JLeapYear - вычислим, является ли введёный год - високосным? (Netology)</li>
-  <li></li>
+  <li>JTimeTranslations - вычисляем кол-во секунд на выполнение ряда задач (Netology)</li>
   <li></li>
   <li></li>
   <li></li>
