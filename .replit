@@ -1,6 +1,7 @@
 language = "java10"
 
-# run = "java ZHelloWorld.java"
-# run = "java ZSubtraction.java"
-# run = "java ZExampleMethod.java"
-run = "java ZSum.java"
+# run = "java JHelloWorld.java"
+# run = "java JSubtraction.java"
+# run = "java JExampleMethod.java"
+# run = "java JSum.java"
+run = "java JTheAreaOfCircle.java"
