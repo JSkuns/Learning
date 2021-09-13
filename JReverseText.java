@@ -1,4 +1,4 @@
-public class Main {
+public class JReverseText {
     public static void main(String[] args) {
         example();
     }
