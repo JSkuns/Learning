@@ -1,0 +1,8 @@
+language = "java10"
+
+# output "Hello World!"
+# run = "java HelloWorld.java"
+
+# output subtraction: value1 - value2 = ...
+run = "java Subtraction.java"
+
