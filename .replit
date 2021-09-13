@@ -1,5 +1,5 @@
 language = "java10"
 
 # run = "java ZHelloWorld.java"
-run = "java ZSubtraction.java"
-
+# run = "java ZSubtraction.java"
+run = "java ZExampleMethod.java"
