@@ -11,7 +11,7 @@
   <li>JArraysExample - примеры работы с массивами, объединение двух массивов 2 способами (методами) (Stepik)</li>
   <li>JReverseText - читаем текст задом наперёд, StringBuilder (?)</li>
   <li>JExampleThis - пример использования ключевого слова this.</li>
-  <li></li>
+  <li>JExampleConstructor - пример использования конструктора</li>
   <li></li>
   <li></li>
   <li></li>
