@@ -12,6 +12,7 @@ class Human {
     public void setName(String name) {  // (String newName)
         this.name = name; // name = newName
         // чтобы не вводить дополнительную переменную newName, используем ключевое слово this.
+        // только для НЕстатичных методов
     }
 
     void print() {
