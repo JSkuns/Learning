@@ -12,6 +12,11 @@
   <li>JReverseText - читаем текст задом наперёд, StringBuilder (?)</li>
   <li>JExampleThis - пример использования ключевого слова this.</li>
   <li>JExampleConstructor - пример использования конструктора</li>
+  <li>JExampleAddIconForFrame - замена иконки приложения на компе (App)</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
   <li></li>
   <li></li>
   <li></li>
